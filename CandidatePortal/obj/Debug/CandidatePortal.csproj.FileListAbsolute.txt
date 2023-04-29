@@ -1,0 +1,26 @@
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.AssemblyReference.cache
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.CoreCompileInputs.cache
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\CandidatePortal.exe.config
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\CandidatePortal.exe
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\CandidatePortal.pdb
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.BusinessLogic.dll
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.dll
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.BusinessLogic.pdb
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.CopyComplete
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.exe
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.pdb
+C:\Users\mahesh\Documents\JB Training\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.pdb
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.AssemblyReference.cache
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.CoreCompileInputs.cache
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\CandidatePortal.exe.config
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\CandidatePortal.exe
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\CandidatePortal.pdb
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.exe
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.pdb
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.BusinessLogic.dll
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.dll
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.pdb
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.BusinessLogic.pdb
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.CopyComplete

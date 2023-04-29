@@ -1,0 +1,6 @@
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate\bin\Debug\Candidate.dll
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate\bin\Debug\Candidate.pdb
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate\obj\Debug\Candidate.csproj.AssemblyReference.cache
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate\obj\Debug\Candidate.csproj.CoreCompileInputs.cache
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate\obj\Debug\Candidate.dll
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate\obj\Debug\Candidate.pdb

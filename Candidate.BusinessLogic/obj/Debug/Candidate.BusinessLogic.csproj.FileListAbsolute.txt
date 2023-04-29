@@ -1,0 +1,9 @@
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\bin\Debug\Candidate.BusinessLogic.dll
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\bin\Debug\Candidate.BusinessLogic.pdb
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\bin\Debug\Candidate.dll
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\bin\Debug\Candidate.pdb
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\obj\Debug\Candidate.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\obj\Debug\Candidate.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\obj\Debug\Candidate.BusinessLogic.csproj.CopyComplete
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\obj\Debug\Candidate.BusinessLogic.dll
+C:\Users\mahesh\Documents\.NetTraining\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\obj\Debug\Candidate.BusinessLogic.pdb
